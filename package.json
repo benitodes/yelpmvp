@@ -1,0 +1,7 @@
+{
+  "name": "yelpmvp",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
